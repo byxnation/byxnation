@@ -29,10 +29,10 @@
  Advanced Discord bot development using discord.py and discord.js.
 
 ## ;
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
 
+<div align="center">
+  <img src="https://lecoq.io" />
+</div>
 
 
 ## 🔗 Connect with me
