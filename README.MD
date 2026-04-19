@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://timg.eu.cc/IkfjdB4DAm.svg" width="100%" />
+</div>
 
 ## Hey! 
 
