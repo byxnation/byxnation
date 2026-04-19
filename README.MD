@@ -30,10 +30,9 @@
 
 ## ;
 
-<div align="center">
-  <img src="https://lecoq.io" />
-</div>
-
+<p align="middle">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byxnation&theme=github_dark" width="700" /> 
+</p>
 
 ## 🔗 Connect with me
 
