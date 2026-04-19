@@ -68,34 +68,37 @@
 <table align="center">
   <!-- الصف الأول -->
   <tr>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://w3schools.com"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://w3.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://mozilla.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://gnu.org"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://getbootstrap.com"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://chartjs.org"><img src="https://chartjs.org/media/logo-title.svg" width="45" height="45"/></a></td>
   </tr>
   <!-- الصف الثاني -->
   <tr>
-    <td align="center"><a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://figma.com"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://google.com"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://git-scm.com"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://graphql.org"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://gulpjs.com"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://heroku.com"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
   </tr>
   <!-- الصف الثالث -->
   <tr>
-    <td align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://jestjs.io"><img src="https://vectorlogo.zone" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://linux.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://pugjs.org"><img src="https://worldvectorlogo.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://python.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://reactjs.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
+    <td align="center"><a href="https://js.org"><img src="https://githubusercontent.com" width="45" height="45"/></a></td>
   </tr>
-  <!-- الصف الرابع -->
+  <!-- الصف الأخير -->
   <tr>
-    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a></td>
+    <td align="center" colspan="6">
+      <a href="https://sass-lang.com"><img src="https://githubusercontent.com" width="45" height="45"/></a>
+    </td>
   </tr>
 </table>
+
 
