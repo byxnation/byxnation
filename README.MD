@@ -24,9 +24,14 @@
 - Cybersecurity & Malware Analysis:
  Deep dive into malware behavior, reverse engineering basics, and securing web environments.
 - Tools & Environment:
- Linux , Bash Scripting, Git/GitHub, Figma (UI/UX Design).
+ Linux , Bash Scripting, Git/GitHub.
 - Automation & Bots:
  Advanced Discord bot development using discord.py and discord.js.
+
+## ;
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
 
 ## 🔗 Connect with me
