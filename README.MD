@@ -27,13 +27,13 @@
 
 <p align="left">
   <a href="https://guns.lol/un_" target="_blank">
-    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png" alt="Guns.lol" />
+    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png" alt="Guns.lol" width="40" height="40" style="vertical-align:middle; margin-right:10px;" />
   </a>
   <a href="https://frail.lol/1s" target="_blank">
-    <img src="https://frail.lol/_next/image?url=%2Fwing-transparent.png&w=64&q=75" alt="Frail.lol" />
+    <img src="https://frail.lol/_next/image?url=%2Fwing-transparent.png&w=64&q=75" alt="Frail.lol" width="40" height="40" style="vertical-align:middle; margin-right:10px;" />
   </a>
   <a href="https://x.com/LethalEdge" target="_blank">
-    <img src="https://www.freepnglogos.com/elon-musk-twitter-rebrand-x-logo-2.png" alt="Frail.lol" />
+    <img src="https://www.freepnglogos.com/elon-musk-twitter-rebrand-x-logo-2.png" alt="Frail.lol" width="40" height="40" style="vertical-align:middle; margin-right:10px;" />
   </a>
 </p>
 
