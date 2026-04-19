@@ -96,5 +96,6 @@
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a></td>
+</a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></td>
   </tr>
 </table>
