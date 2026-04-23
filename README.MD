@@ -37,7 +37,6 @@
 ## 🔗 Connect with me
 
 <div align="middle">
-  <!-- الأيقونة اللي في النص (رأس الشبكة) -->
   <table border="0">
     <tr>
       <td align="center" colspan="2">
@@ -46,7 +45,6 @@
         </a>
       </td>
     </tr>
-    <!-- الأيقونات اللي تحتها (أرجل الشبكة) -->
     <tr>
       <td align="center">
         <a href="https://frail.lol/1s" target="_blank">
@@ -66,7 +64,7 @@
 ## ./byxnation ;
 
 <table align="center">
-  <!-- الصف الأول -->
+  <!-- 1  -->
   <tr>
     <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
@@ -74,7 +72,7 @@
     <td align="center"><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a></td>
   </tr>
-  <!-- الصف الثاني -->
+  <!-- 2 -->
   <tr>
     <td align="center"><a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a></td>
@@ -82,7 +80,7 @@
     <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a></td>
   </tr>
-  <!-- الصف الثالث -->
+  <!-- 3 -->
   <tr>
     <td align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a></td>
@@ -90,7 +88,7 @@
     <td align="center"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a></td>
   </tr>
-  <!-- الصف الرابع -->
+  <!-- 4 -->
   <tr>
     <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
