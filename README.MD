@@ -28,6 +28,8 @@
 - Automation & Bots:
  Advanced Discord bot development using discord.py and discord.js.
 
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github)
+
 ## ;
 
 <p align="middle">
