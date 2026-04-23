@@ -64,3 +64,7 @@
 ## ./byxnation ;
 
 ![xXx](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github,js,ts,python,cpp,bash,html,css)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=byxnation&color=blueviolet" alt="Profile Views" />
+</p>
