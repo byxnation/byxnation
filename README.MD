@@ -63,7 +63,7 @@
 
 ## ./byxnation ;
 
-![xXx](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github,js,ts,python,cpp,bash,html,css,arch,ubuntu,c#,c++,c+)
+![xXx](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github,js,ts,python,cpp,bash,html,css,arch,ubuntu,c#,c++,c+,terminal,fedora,windows,java)
 
 ## Views
 <div align=center>
