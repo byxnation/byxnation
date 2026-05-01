@@ -28,13 +28,13 @@
 - Automation & Bots:
  Advanced Discord bot development using discord.py and discord.js.
 
-## ;
+## Statistics
 
 <p align="middle">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=byxnation&theme=github_dark" width="700" /> 
 </p>
 
-## 🔗 Connect with me
+## 🔗 Contact me
 
 <div align="middle">
   <table border="0">
@@ -61,7 +61,7 @@
 </div>
 
 
-## ./byxnation ;
+## ./byxnation ; Skills
 
 ![xXx](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github,js,ts,python,cpp,bash,html,css,arch,ubuntu,c#,c++,c+,terminal,fedora,windows,java)
 
