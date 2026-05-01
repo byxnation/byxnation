@@ -65,6 +65,9 @@
 
 ![xXx](https://skillicons.dev/icons?i=nodejs,express,react,tailwind,mongodb,mysql,bots,discordjs,kali,linux,git,github,js,ts,python,cpp,bash,html,css,arch,ubuntu,c#,c++,c+,terminal,fedora,windows,java)
 
+<br>
+  <a href=#><img width="100%"  src="x.svg"></a>
+
 ## Views
 <div align=center>
   <h3><b> Profile Visitors Count</b></h3>
