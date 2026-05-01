@@ -1,6 +1,52 @@
 <div align="center">
   <a href="https://github.com/whiteSHADOW1234/TypingSVG">
     <img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%2221%22%2C%22color%22%3A%22%23ffffff%22%7D%2C%7B%22text%22%3A%22Mohamed+%3B%22%2C%22color%22%3A%22%23ffffff%22%7D%2C%7B%22text%22%3A%22.%2Fbyxnation%22%2C%22color%22%3A%22%23ffffff%22%7D%5D" alt="Typing SVG" />
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://w3.org">
+  <defs>
+    <filter id="glitch-filter">
+      <feOffset dx="-3" dy="0" in="SourceGraphic" result="offset1">
+        <animate attributeName="dx" values="0; -4; 3; -2; 0" dur="0.15s" repeatCount="indefinite" />
+      </feOffset>
+      <feColorMatrix in="offset1" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="red"/>
+      
+      <feOffset dx="3" dy="0" in="SourceGraphic" result="offset2">
+        <animate attributeName="dx" values="0; 4; -3; 2; 0" dur="0.2s" repeatCount="indefinite" />
+      </feOffset>
+      <feColorMatrix in="offset2" type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="cyan"/>
+      
+      <feBlend in="red" in2="cyan" mode="screen" />
+    </filter>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="none" />
+
+  <g stroke="#fff" stroke-width="1.5" fill="none" filter="url(#glow)">
+    <path d="M150,60 L165,40 L155,50 L170,30">
+      <animate attributeName="opacity" values="0;1;0;1;0;0" dur="0.4s" repeatCount="indefinite" />
+    </path>
+    <path d="M430,100 L445,80 L435,90 L450,70">
+      <animate attributeName="opacity" values="0;0;1;0;1;0" dur="0.6s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        fill="white" font-family="monospace" font-weight="bold" font-size="55" 
+        filter="url(#glitch-filter)">
+    ./byxnation
+  </text>
+
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" 
+        fill="#00ffcc" font-family="Courier New" font-size="16" style="letter-spacing: 10px;">
+    Encrypted
+    <animate attributeName="opacity" values="1;0.4;1" dur="1s" repeatCount="indefinite" />
+  </text>
+</svg>
+
   </a>
 </div>
 
