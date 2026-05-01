@@ -1,9 +1,7 @@
-<div align="center">
+
   
 <br>
   <a href=#><img width="100%"  src="byxnation.svg"></a>
-</div>
-
 
 ## Hey! 
 
