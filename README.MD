@@ -1,8 +1,9 @@
+<div align="center">
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG">
+    <img src="https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&lines=%5B%7B%22text%22%3A%2221%22%2C%22color%22%3A%22%23ffffff%22%7D%2C%7B%22text%22%3A%22Mohamed+%3B%22%2C%22color%22%3A%22%23ffffff%22%7D%2C%7B%22text%22%3A%22.%2Fbyxnation%22%2C%22color%22%3A%22%23ffffff%22%7D%5D" alt="Typing SVG" />
 
-  
-<br>
-  <a href=#><img width="100%"  src="byxnation.svg"></a>
-
+  </a>
+</div>
 ## Hey! 
 
 **I'm Mohamed , a 17-year-old developer from Egypt with a passion for building secure, high-performance web applications and deconstructing malicious software. My journey in tech is driven by curiosity—I don't just want to know how to build things, I want to know how they can be broken, so I can build them stronger.**
